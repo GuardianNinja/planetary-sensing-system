@@ -1,0 +1,13 @@
+planetary-sensing-system/
+├─ src/
+│  ├─ __init__.py
+│  ├─ models.py
+│  ├─ firewall.py
+│  ├─ verification.py
+│  ├─ loop.py
+│  └─ config.py
+├─ tests/
+│  ├─ __init__.py
+│  └─ test_loop.py
+├─ README.md
+└─ requirements.txt
