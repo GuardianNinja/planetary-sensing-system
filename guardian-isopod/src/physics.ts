@@ -71,4 +71,4 @@ function createDefaultPhysicsConfig(): PhysicsConfig {
     friction: 0.1,          // light friction
   };
 }
-module.exports = { stepPhysics, createDefaultPhysicsConfig };
+
